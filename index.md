@@ -1,8 +1,8 @@
 ---
-layout: default
-title: "Happy Jekylling!"
+layout: page
+title: "Hola Mundo!"
 ---
 
-## You're ready to go!
+## Error 503!
 
-Start developing your Jekyll website.
+Esta página aún está en desarrollo
